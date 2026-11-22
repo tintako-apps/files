@@ -2,6 +2,8 @@
 
 # Files
 
+> **No longer developed.** Files gets no more updates. It keeps working, and every version is kept in [tintako-apps/history](https://github.com/tintako-apps/history/tree/main/files).
+
 A quiet file manager made for E Ink: your music, books, pictures and downloads as simple folders, with move, rename and a bin that keeps deleted files for 30 days.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tintako)
